@@ -1,3 +1,0 @@
-example.txt
-LICENSE.md
-README.md
